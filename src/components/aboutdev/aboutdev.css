@@ -1,0 +1,14 @@
+span {
+    /* font-family: Franklin Gothic Medium; */
+    font-family: Oswald;
+}
+
+#CompassPlus {
+    font-size: 13px;
+    float:left;
+    vertical-align: middle;
+}
+
+#Dev {
+    font-size: 15px;
+}

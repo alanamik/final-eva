@@ -1,0 +1,64 @@
+.card {
+    margin: 0%;
+}
+
+
+.nav {
+    margin-bottom: 30px;
+}
+
+.nav-item {
+    font-family: Arial;
+    font-size: 17px;
+}
+
+.card-title {
+    font-family: Arial;
+    font-weight: bold;
+    margin: 0%;
+    margin-bottom: 15px;
+}
+
+img {
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+
+
+#BioOfUserCard > p{
+    font-size: 15px;
+    font-family: Lucida Sans Unicode;
+    
+}
+
+#ContactsOfUserCard {
+    font-family: Palatino;
+    font-variant: petite-caps;
+    font-size: 13px
+}
+
+.list-group-item {
+    font-size: 14px;
+}
+
+.col {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+
+#subProfile > img {
+    border-radius: 50%;
+}
+
+#subProfile > .card-title h5 {
+    margin: 0%;
+}
+#subProfile {
+    border-radius: 50%;
+    border: none;
+    font-size: 1rem;
+    font-family: Lucida Sans Unicode;
+}
